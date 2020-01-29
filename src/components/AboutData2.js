@@ -27,8 +27,8 @@ function About_Data2() {
               ></i><span className="name">EDUCATION</span>
               <p className="datas">
                 Hansei Universicy, South Korea<br></br>
-                Major : Social Welfare<br></br>
-                Minor : Computer Engineering
+               <span className='major'>Major : Social Welfare</span> <br></br>
+                <span className="minor">Minor : Computer Engineering</span>
               </p>
             </div>
             <div className="hover">
@@ -66,7 +66,7 @@ function About_Data2() {
                   <br></br>
                   <span className="location"><span role='img' aria-label="country">🚩</span>Venice, Italy</span>
                   <br></br>
-                  <span className="date">03.2014 - 02.2015(1year)</span>
+                  <span className="date">01.2019 - 08.2019(8months)</span>
                 </li>
                 <li className="job2">
                   <span className="job job2">

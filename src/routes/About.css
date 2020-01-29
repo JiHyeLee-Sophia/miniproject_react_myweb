@@ -125,7 +125,9 @@ span.ctc{
 }
 span.where,
 span.location,
-span.date{
+span.date,
+span.major,
+span.minor{
     font-size: smaller;
 }
 li.job2{
