@@ -16,7 +16,7 @@ function About_Data1() {
             <span className="about_data_if">Date of Birth</span>
             <h5 className="about_data_if">21/01/1991</h5>
             <span className="about_data_if">Nationality</span>
-            <h5 className="about_data_if">Korean</h5>
+            <h5 className="about_data_if">South Korea</h5>
             <span className="about_data_if">Address</span>
             <h5 className="about_data_if">Gyeonggi-do, South Korea</h5>
             <span className="about_data_if">E-mail</span>

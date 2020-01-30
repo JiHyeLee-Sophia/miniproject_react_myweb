@@ -38,6 +38,7 @@ function About_Data2() {
                 aria-hidden="true"
               ></i><span className="name">ACHIEVEMENT</span>
               <ul className="datas">
+                <span className="project">Vanilla JS</span>
                 <li>
                   <a href="https://jihyelee-sophia.github.io/miniproject_vanillajs_todolist/">
                     Todo List Web Version{" "}
