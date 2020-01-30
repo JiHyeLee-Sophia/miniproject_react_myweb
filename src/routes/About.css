@@ -23,7 +23,7 @@ a {
 .about_main {
   display: flex;
   width: 100%;
-  /* height: 100%; */
+  padding-top:60px;
   height:420px;
   background-color: rgba(255, 255, 255, 0.671);
   box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
@@ -36,9 +36,17 @@ a {
   width: 320px;
   height: 320px;
   position: relative;
-  top: -80px;
-  /* left: -20px; */
+  top: -130px;
   box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+@media screen and (max-width : 980px){
+  .about_main{
+  height:690px;
+  padding-top:20px;
+  }
+  .about_main_img{
+  top: 0px;
+  }
 }
 .about_main .about_main_p {
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
@@ -48,7 +56,6 @@ a {
   top: 20px;
   width: 450px;
   flex-shrink: 1;
-  /* padding: 20px 0; */
 }
 .about_data {
   height: 100%;

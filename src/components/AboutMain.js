@@ -16,7 +16,7 @@ function About_Main() {
             <p className="about_main_p">
               <i className="fa fa-quote-left" aria-hidden="true"></i>
               <span className="tab">&#9;&#9;&#9;&#9;&#9;</span>
-              October 2018,
+              In October 2018,
               <br />I tried something new that<br></br>I secretly always wanted to do.
               <br />I wanted to start from scratch <br></br>in an unfamiliar place.
               <br />
