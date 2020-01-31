@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/miniproject_react_myweb/static/css/main.3acaabe0.chunk.css",
+    "main.css": "/miniproject_react_myweb/static/css/main.0d7eb865.chunk.css",
     "main.js": "/miniproject_react_myweb/static/js/main.72de3156.chunk.js",
     "main.js.map": "/miniproject_react_myweb/static/js/main.72de3156.chunk.js.map",
     "runtime-main.js": "/miniproject_react_myweb/static/js/runtime-main.32f79b8e.js",
@@ -9,10 +9,10 @@
     "static/js/2.15e7dc4c.chunk.js": "/miniproject_react_myweb/static/js/2.15e7dc4c.chunk.js",
     "static/js/2.15e7dc4c.chunk.js.map": "/miniproject_react_myweb/static/js/2.15e7dc4c.chunk.js.map",
     "index.html": "/miniproject_react_myweb/index.html",
-    "precache-manifest.39ef66c4d5f9b0202d1f41d6ee631771.js": "/miniproject_react_myweb/precache-manifest.39ef66c4d5f9b0202d1f41d6ee631771.js",
+    "precache-manifest.b7d012ddcceb31167fa656dd17e35073.js": "/miniproject_react_myweb/precache-manifest.b7d012ddcceb31167fa656dd17e35073.js",
     "service-worker.js": "/miniproject_react_myweb/service-worker.js",
     "static/css/2.4e6e2420.chunk.css.map": "/miniproject_react_myweb/static/css/2.4e6e2420.chunk.css.map",
-    "static/css/main.3acaabe0.chunk.css.map": "/miniproject_react_myweb/static/css/main.3acaabe0.chunk.css.map",
+    "static/css/main.0d7eb865.chunk.css.map": "/miniproject_react_myweb/static/css/main.0d7eb865.chunk.css.map",
     "static/js/2.15e7dc4c.chunk.js.LICENSE": "/miniproject_react_myweb/static/js/2.15e7dc4c.chunk.js.LICENSE",
     "static/media/Style.css": "/miniproject_react_myweb/static/media/background.d4d9b07d.png",
     "static/media/About.css": "/miniproject_react_myweb/static/media/background2.4f55f2e0.png",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.32f79b8e.js",
     "static/css/2.4e6e2420.chunk.css",
     "static/js/2.15e7dc4c.chunk.js",
-    "static/css/main.3acaabe0.chunk.css",
+    "static/css/main.0d7eb865.chunk.css",
     "static/js/main.72de3156.chunk.js"
   ]
 }
