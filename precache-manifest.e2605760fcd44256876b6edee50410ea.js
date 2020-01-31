@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d0c3e799d4353c242fc3c2ff4032bf7",
+    "revision": "e5c77f423866b4345a73346328293a62",
     "url": "/miniproject_react_myweb/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/miniproject_react_myweb/static/css/2.4e6e2420.chunk.css"
   },
   {
-    "revision": "1f27f1b21040bcc04c8e",
-    "url": "/miniproject_react_myweb/static/css/main.a753a86a.chunk.css"
+    "revision": "761614f3a897dfca81af",
+    "url": "/miniproject_react_myweb/static/css/main.1514b2e5.chunk.css"
   },
   {
     "revision": "2c3ff78f394ffd9d191f",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/miniproject_react_myweb/static/js/2.15e7dc4c.chunk.js.LICENSE"
   },
   {
-    "revision": "1f27f1b21040bcc04c8e",
-    "url": "/miniproject_react_myweb/static/js/main.3fa609cd.chunk.js"
+    "revision": "761614f3a897dfca81af",
+    "url": "/miniproject_react_myweb/static/js/main.72de3156.chunk.js"
   },
   {
     "revision": "2580b1d840a99ffae515",
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/miniproject_react_myweb/static/media/background.d4d9b07d.png"
   },
   {
-    "revision": "5620e145ae3302dddccf9932fa9f3736",
-    "url": "/miniproject_react_myweb/static/media/background1.5620e145.png"
+    "revision": "aca84dd832cd225dc3bd19b3e27bc997",
+    "url": "/miniproject_react_myweb/static/media/background1.aca84dd8.png"
   },
   {
-    "revision": "881cf4be76aac7e8b186a1746dc26e1a",
-    "url": "/miniproject_react_myweb/static/media/background2.881cf4be.png"
+    "revision": "4f55f2e0d8298f4ee36cb380ed490a45",
+    "url": "/miniproject_react_myweb/static/media/background2.4f55f2e0.png"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",

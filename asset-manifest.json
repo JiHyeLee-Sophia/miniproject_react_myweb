@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/miniproject_react_myweb/static/css/main.a753a86a.chunk.css",
-    "main.js": "/miniproject_react_myweb/static/js/main.3fa609cd.chunk.js",
-    "main.js.map": "/miniproject_react_myweb/static/js/main.3fa609cd.chunk.js.map",
+    "main.css": "/miniproject_react_myweb/static/css/main.1514b2e5.chunk.css",
+    "main.js": "/miniproject_react_myweb/static/js/main.72de3156.chunk.js",
+    "main.js.map": "/miniproject_react_myweb/static/js/main.72de3156.chunk.js.map",
     "runtime-main.js": "/miniproject_react_myweb/static/js/runtime-main.32f79b8e.js",
     "runtime-main.js.map": "/miniproject_react_myweb/static/js/runtime-main.32f79b8e.js.map",
     "static/css/2.4e6e2420.chunk.css": "/miniproject_react_myweb/static/css/2.4e6e2420.chunk.css",
     "static/js/2.15e7dc4c.chunk.js": "/miniproject_react_myweb/static/js/2.15e7dc4c.chunk.js",
     "static/js/2.15e7dc4c.chunk.js.map": "/miniproject_react_myweb/static/js/2.15e7dc4c.chunk.js.map",
     "index.html": "/miniproject_react_myweb/index.html",
-    "precache-manifest.e9a70f50a7b9bfb05264472f91bff472.js": "/miniproject_react_myweb/precache-manifest.e9a70f50a7b9bfb05264472f91bff472.js",
+    "precache-manifest.e2605760fcd44256876b6edee50410ea.js": "/miniproject_react_myweb/precache-manifest.e2605760fcd44256876b6edee50410ea.js",
     "service-worker.js": "/miniproject_react_myweb/service-worker.js",
     "static/css/2.4e6e2420.chunk.css.map": "/miniproject_react_myweb/static/css/2.4e6e2420.chunk.css.map",
-    "static/css/main.a753a86a.chunk.css.map": "/miniproject_react_myweb/static/css/main.a753a86a.chunk.css.map",
+    "static/css/main.1514b2e5.chunk.css.map": "/miniproject_react_myweb/static/css/main.1514b2e5.chunk.css.map",
     "static/js/2.15e7dc4c.chunk.js.LICENSE": "/miniproject_react_myweb/static/js/2.15e7dc4c.chunk.js.LICENSE",
     "static/media/Style.css": "/miniproject_react_myweb/static/media/background.d4d9b07d.png",
-    "static/media/About.css": "/miniproject_react_myweb/static/media/background2.881cf4be.png",
+    "static/media/About.css": "/miniproject_react_myweb/static/media/background2.4f55f2e0.png",
     "static/media/font-awesome.min.css": "/miniproject_react_myweb/static/media/fontawesome-webfont.fee66e71.woff",
     "static/media/jihyelee_CuriculumVitae.pdf": "/miniproject_react_myweb/static/media/jihyelee_CuriculumVitae.1f3303c8.pdf",
     "static/media/profile.png": "/miniproject_react_myweb/static/media/profile.8c3f53a2.png"
@@ -24,7 +24,7 @@
     "static/js/runtime-main.32f79b8e.js",
     "static/css/2.4e6e2420.chunk.css",
     "static/js/2.15e7dc4c.chunk.js",
-    "static/css/main.a753a86a.chunk.css",
-    "static/js/main.3fa609cd.chunk.js"
+    "static/css/main.1514b2e5.chunk.css",
+    "static/js/main.72de3156.chunk.js"
   ]
 }
