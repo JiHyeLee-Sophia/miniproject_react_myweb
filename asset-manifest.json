@@ -1,29 +1,30 @@
 {
   "files": {
-    "main.css": "/miniproject_react_myweb/static/css/main.140da2e3.chunk.css",
-    "main.js": "/miniproject_react_myweb/static/js/main.c7bc09fd.chunk.js",
-    "main.js.map": "/miniproject_react_myweb/static/js/main.c7bc09fd.chunk.js.map",
+    "main.css": "/miniproject_react_myweb/static/css/main.a753a86a.chunk.css",
+    "main.js": "/miniproject_react_myweb/static/js/main.9ac2ac6b.chunk.js",
+    "main.js.map": "/miniproject_react_myweb/static/js/main.9ac2ac6b.chunk.js.map",
     "runtime-main.js": "/miniproject_react_myweb/static/js/runtime-main.32f79b8e.js",
     "runtime-main.js.map": "/miniproject_react_myweb/static/js/runtime-main.32f79b8e.js.map",
     "static/css/2.4e6e2420.chunk.css": "/miniproject_react_myweb/static/css/2.4e6e2420.chunk.css",
-    "static/js/2.191810c3.chunk.js": "/miniproject_react_myweb/static/js/2.191810c3.chunk.js",
-    "static/js/2.191810c3.chunk.js.map": "/miniproject_react_myweb/static/js/2.191810c3.chunk.js.map",
+    "static/js/2.15e7dc4c.chunk.js": "/miniproject_react_myweb/static/js/2.15e7dc4c.chunk.js",
+    "static/js/2.15e7dc4c.chunk.js.map": "/miniproject_react_myweb/static/js/2.15e7dc4c.chunk.js.map",
     "index.html": "/miniproject_react_myweb/index.html",
-    "precache-manifest.cdf2db65b79def6136ffda43f1d30ae1.js": "/miniproject_react_myweb/precache-manifest.cdf2db65b79def6136ffda43f1d30ae1.js",
+    "precache-manifest.8a00c48fd08c66868aab5f633e4f2a57.js": "/miniproject_react_myweb/precache-manifest.8a00c48fd08c66868aab5f633e4f2a57.js",
     "service-worker.js": "/miniproject_react_myweb/service-worker.js",
     "static/css/2.4e6e2420.chunk.css.map": "/miniproject_react_myweb/static/css/2.4e6e2420.chunk.css.map",
-    "static/css/main.140da2e3.chunk.css.map": "/miniproject_react_myweb/static/css/main.140da2e3.chunk.css.map",
-    "static/js/2.191810c3.chunk.js.LICENSE": "/miniproject_react_myweb/static/js/2.191810c3.chunk.js.LICENSE",
+    "static/css/main.a753a86a.chunk.css.map": "/miniproject_react_myweb/static/css/main.a753a86a.chunk.css.map",
+    "static/js/2.15e7dc4c.chunk.js.LICENSE": "/miniproject_react_myweb/static/js/2.15e7dc4c.chunk.js.LICENSE",
     "static/media/Style.css": "/miniproject_react_myweb/static/media/background.d4d9b07d.png",
-    "static/media/About.css": "/miniproject_react_myweb/static/media/background2.a1508f5e.png",
+    "static/media/About.css": "/miniproject_react_myweb/static/media/background2.881cf4be.png",
     "static/media/font-awesome.min.css": "/miniproject_react_myweb/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/jihyelee_CuriculumVitae.pdf": "/miniproject_react_myweb/static/media/jihyelee_CuriculumVitae.1f3303c8.pdf",
     "static/media/profile.png": "/miniproject_react_myweb/static/media/profile.8c3f53a2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.32f79b8e.js",
     "static/css/2.4e6e2420.chunk.css",
-    "static/js/2.191810c3.chunk.js",
-    "static/css/main.140da2e3.chunk.css",
-    "static/js/main.c7bc09fd.chunk.js"
+    "static/js/2.15e7dc4c.chunk.js",
+    "static/css/main.a753a86a.chunk.css",
+    "static/js/main.9ac2ac6b.chunk.js"
   ]
 }

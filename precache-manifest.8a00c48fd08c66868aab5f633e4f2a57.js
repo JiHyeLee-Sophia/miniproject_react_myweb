@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e5191a0097f4f7f8876f88532e15121",
+    "revision": "7fd598b58e5d9f2aaf1a77639397a5c6",
     "url": "/miniproject_react_myweb/index.html"
   },
   {
-    "revision": "8e33110dd5a55b42b086",
+    "revision": "2c3ff78f394ffd9d191f",
     "url": "/miniproject_react_myweb/static/css/2.4e6e2420.chunk.css"
   },
   {
-    "revision": "43211bce8e832575c24d",
-    "url": "/miniproject_react_myweb/static/css/main.140da2e3.chunk.css"
+    "revision": "48080b43d70dba1629c3",
+    "url": "/miniproject_react_myweb/static/css/main.a753a86a.chunk.css"
   },
   {
-    "revision": "8e33110dd5a55b42b086",
-    "url": "/miniproject_react_myweb/static/js/2.191810c3.chunk.js"
+    "revision": "2c3ff78f394ffd9d191f",
+    "url": "/miniproject_react_myweb/static/js/2.15e7dc4c.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/miniproject_react_myweb/static/js/2.191810c3.chunk.js.LICENSE"
+    "url": "/miniproject_react_myweb/static/js/2.15e7dc4c.chunk.js.LICENSE"
   },
   {
-    "revision": "43211bce8e832575c24d",
-    "url": "/miniproject_react_myweb/static/js/main.c7bc09fd.chunk.js"
+    "revision": "48080b43d70dba1629c3",
+    "url": "/miniproject_react_myweb/static/js/main.9ac2ac6b.chunk.js"
   },
   {
     "revision": "2580b1d840a99ffae515",
@@ -32,8 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/miniproject_react_myweb/static/media/background.d4d9b07d.png"
   },
   {
-    "revision": "a1508f5e7237ac409e411ee9391b7f60",
-    "url": "/miniproject_react_myweb/static/media/background2.a1508f5e.png"
+    "revision": "5620e145ae3302dddccf9932fa9f3736",
+    "url": "/miniproject_react_myweb/static/media/background1.5620e145.png"
+  },
+  {
+    "revision": "881cf4be76aac7e8b186a1746dc26e1a",
+    "url": "/miniproject_react_myweb/static/media/background2.881cf4be.png"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
@@ -54,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/miniproject_react_myweb/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
+    "revision": "1f3303c8631cee054039626d89423974",
+    "url": "/miniproject_react_myweb/static/media/jihyelee_CuriculumVitae.1f3303c8.pdf"
   },
   {
     "revision": "8c3f53a27e644a559ac1c2767fa4d551",
