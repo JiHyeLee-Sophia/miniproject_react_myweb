@@ -3,6 +3,7 @@ import profile from "../img/profile.png";
 import { Spring } from "react-spring/renderprops";
 
 function About_Main() {
+  
   return (
     <Spring
       from={{ opacity: 0, marginLeft: 500 }}

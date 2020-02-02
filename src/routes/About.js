@@ -4,6 +4,7 @@ import AboutMain from "../components/AboutMain";
 import AboutData1 from "../components/AboutData1";
 import AboutData2 from "../components/AboutData2";
 
+
 function About() {
     return (
       <div className="about">
