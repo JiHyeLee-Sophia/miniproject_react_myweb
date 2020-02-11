@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "39cb9eadbf9a27dd5a3ece972248507b",
+    "revision": "6119491aae002534f0e409ea7c238f36",
     "url": "/miniproject_react_myweb/index.html"
   },
   {
-    "revision": "6e8e66dacc667cac6088",
+    "revision": "4cdd1162d6fd0d9db102",
     "url": "/miniproject_react_myweb/static/css/2.4e6e2420.chunk.css"
   },
   {
-    "revision": "5c9ee41e83c01031b40c",
-    "url": "/miniproject_react_myweb/static/css/main.8aff099d.chunk.css"
+    "revision": "ac8065ed16bfc008dc28",
+    "url": "/miniproject_react_myweb/static/css/main.1864e0e2.chunk.css"
   },
   {
-    "revision": "6e8e66dacc667cac6088",
-    "url": "/miniproject_react_myweb/static/js/2.acdca762.chunk.js"
+    "revision": "4cdd1162d6fd0d9db102",
+    "url": "/miniproject_react_myweb/static/js/2.1d8cd847.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/miniproject_react_myweb/static/js/2.acdca762.chunk.js.LICENSE"
+    "url": "/miniproject_react_myweb/static/js/2.1d8cd847.chunk.js.LICENSE"
   },
   {
-    "revision": "5c9ee41e83c01031b40c",
-    "url": "/miniproject_react_myweb/static/js/main.6697cfec.chunk.js"
+    "revision": "ac8065ed16bfc008dc28",
+    "url": "/miniproject_react_myweb/static/js/main.3870cf45.chunk.js"
   },
   {
     "revision": "2580b1d840a99ffae515",
@@ -66,5 +66,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8c3f53a27e644a559ac1c2767fa4d551",
     "url": "/miniproject_react_myweb/static/media/profile.8c3f53a2.png"
+  },
+  {
+    "revision": "df4d1c51583acc60b88fa1aba7403c6b",
+    "url": "/miniproject_react_myweb/static/media/이지혜_이력서.df4d1c51.pdf"
   }
 ]);
