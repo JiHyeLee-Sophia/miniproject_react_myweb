@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24cb1ef333ca8d1f4a83a675b9fb04cc",
+    "revision": "39cb9eadbf9a27dd5a3ece972248507b",
     "url": "/miniproject_react_myweb/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/miniproject_react_myweb/static/css/2.4e6e2420.chunk.css"
   },
   {
-    "revision": "7547c066102b9c9e3166",
+    "revision": "5c9ee41e83c01031b40c",
     "url": "/miniproject_react_myweb/static/css/main.8aff099d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/miniproject_react_myweb/static/js/2.acdca762.chunk.js.LICENSE"
   },
   {
-    "revision": "7547c066102b9c9e3166",
-    "url": "/miniproject_react_myweb/static/js/main.5deb4e06.chunk.js"
+    "revision": "5c9ee41e83c01031b40c",
+    "url": "/miniproject_react_myweb/static/js/main.6697cfec.chunk.js"
   },
   {
     "revision": "2580b1d840a99ffae515",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/miniproject_react_myweb/static/media/fontawesome-webfont.fee66e71.woff"
   },
   {
-    "revision": "1f3303c8631cee054039626d89423974",
-    "url": "/miniproject_react_myweb/static/media/jihyelee_CuriculumVitae.1f3303c8.pdf"
+    "revision": "672df46b5cacd0a22069ddb70a7b8686",
+    "url": "/miniproject_react_myweb/static/media/jihyelee_CuriculumVitae.672df46b.pdf"
   },
   {
     "revision": "8c3f53a27e644a559ac1c2767fa4d551",
