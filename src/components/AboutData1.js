@@ -1,32 +1,36 @@
 import React from "react";
+import PropTypes from 'prop-types';
 
-function About_Data1() {
+const style={
+  display:"grid",
+  gridTemplateColumns:"1.1fr 2.5fr"
+}
+const spanStyle={
+  paddingBottom:"8px"
+}
+function About_Data1({ title, data }) {
   return (
-    <div className="about_data_1">
-      <div className="about_data_1_1">
-        <span className="about_data_if">Name</span>
-        <h5 className="about_data_if">Ji Hye Lee</h5>
-        <span className="about_data_if">Date of Birth</span>
-        <h5 className="about_data_if">21/01/1991</h5>
-        <span className="about_data_if">Nationality</span>
-        <h5 className="about_data_if">South Korea</h5>
-        <span className="about_data_if">Address</span>
-        <h5 className="about_data_if">Gyeonggi-do, South Korea</h5>
-        <span className="about_data_if">E-mail</span>
-        <h5 className="about_data_if">sophitalia121@gmail.com</h5>
-        <span className="about_data_if">GitHub</span>
+    <div style={style}>
+      <span style={spanStyle}>{title}</span>
+      {title === "GitHub" ? (
         <a
           className="about_data_if"
-          href="https://github.com/JiHyeLee-Sophia"
+          href={data}
           target="_blank"
           rel="noopener noreferrer"
         >
-          https://github.com/JiHyeLee-Sophia
+          {data}
         </a>
-      </div>
-      <div className = "about_data_1_bg"></div>
+      ) : (
+        <h5 className="about_data_if">{data}</h5>
+      )}
     </div>
   );
+}
+
+About_Data1.propTypes={
+  title: PropTypes.string.isRequired,
+  data: PropTypes.string.isRequired
 }
 
 export default About_Data1;

@@ -1,8 +1,7 @@
-import React, { Component } from "react";
-import cv from "../img/jihyelee_CuriculumVitae.pdf";
+import React from "react";
+import PropTypes from 'prop-types';
 
-class About_Data2 extends Component {
-  render() {
+function About_Data2 ({datas, subDatas,achievement,myCV}) {
     return (
       <div className="about_data_2">
         <div className="about_data_2_bg"></div>
@@ -15,26 +14,21 @@ class About_Data2 extends Component {
             ></i>
             <span className="name">SKILL</span>
             <div className="datas">
-              <h2>Javascript</h2>
-              <h2>Html</h2>
-              <h2>CSS</h2>
+              {datas.map((each,index) => (
+                <h2 key={index}>{each}</h2>
+              ))}
               <br></br>
               <span className="project">Also, Im studying..</span>
-              <h2>React JS</h2>
-              <h2>TypeScript</h2>
+              {subDatas.map((each,index) => (
+                <h2 key={index}>{each}</h2>
+              ))}
             </div>
           </div>
-          <br></br>
-          <br></br>
           <div className="about_data_2_text">
             <h1>
-              I have been studying Frontend development since December 2019.
               Please check out my works.
             </h1>
           </div>
-
-          <br></br>
-          <br></br>
           <div className="hover">
             <i
               id="achievement"
@@ -43,54 +37,39 @@ class About_Data2 extends Component {
             ></i>
             <span className="name">ACHIEVEMENT</span>
             <ul className="datas">
-              <span className="project">Vanilla JS</span>
-              <li>
-                <a
-                  href="https://jihyelee-sophia.github.io/miniproject_vanillajs_todolist/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Todo List Web Version{" "}
-                  <span className="ctc">(click to check ✔)</span>
-                </a>
-              </li>
-              <li>
-                <a
-                  href="https://jihyelee-sophia.github.io/miniproject_vanillajs_babyjump/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  Baby Jump Web Game{" "}
-                  <span className="ctc">(click to check ✔)</span>
-                </a>
-              </li>
-              <br></br>
-              <span className="project">React JS</span>
-              <li>
-                <a
-                  href="https://jihyelee-sophia.github.io/miniproject_react_myweb/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  My Own Web Site{" "}
-                  <span className="ctc">(click to check ✔)</span>
-                </a>
-              </li>
+              {achievement.map((each,index) => (
+                <li key={index}>
+                  <span className="project">{each.language}</span>
+                  <br></br>
+                  <a href={each.link} target="_blank" rel="noopener noreferrer">
+                    {each.name}
+                    <span className="ctc">(click to check ✔)</span>
+                  </a>
+                </li>
+              ))}
             </ul>
           </div>
-          <a
-            className="myCV"
-            href={cv}
-            target="_blank"
-            download="CV_JiHyeLee"
-            rel="noopener noreferrer"
-          >
-            CHECK MY CV
-          </a>
+          <div className="myCV_Div">
+          {myCV.map((each, index) => (
+            <a key={index}
+              className="myCV"
+              href={each.file}
+              target="_blank"
+              download="JiHyeLee_CV"
+              rel="noopener noreferrer"
+            >
+              {each.name}
+            </a>
+          ))}
+          </div>
         </div>
       </div>
     );
-  }
 }
-
+About_Data2.propTypes={
+  datas:PropTypes.array.isRequired,
+  subDatas:PropTypes.array.isRequired,
+  achievement:PropTypes.array.isRequired,
+  myCV:PropTypes.array.isRequired
+}
 export default About_Data2;
