@@ -41,7 +41,7 @@ class About extends React.Component {
     ],
     myCV: [
       { name: "MyCV_Eng", file: cv_eng },
-      { name: "MyCV_Kor", file: cv_kor }
+      // { name: "MyCV_Kor", file: cv_kor }
     ]
   };
   render() {
